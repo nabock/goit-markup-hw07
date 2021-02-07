@@ -74,9 +74,9 @@ textarea {
 		border: 1px solid $accent-color;
 	}
 
-	.icon-form:hover ~ & {
-		border: 1px solid $accent-color;
-	}
+	// & + .icon-form:hover {
+	// 	border: 1px solid $accent-color;
+	// }
 }
 
 .comment {

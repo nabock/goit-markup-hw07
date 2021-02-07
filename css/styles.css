@@ -386,6 +386,8 @@ a {
 	color: #ffffff;
 }
 
+/* Our team */
+
 .our-team {
 	background-color: rgba(245, 244, 250, 1);
 }
@@ -543,10 +545,6 @@ a {
 
 	list-style: none;
 	padding-left: 0px;
-}
-
-footer {
-	background: #2f303a;
 }
 
 .footer {

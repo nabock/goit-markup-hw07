@@ -19,6 +19,7 @@
 	background-size: contain;
 	background-position: center;
 	margin-right: 10px;
+	fill: $title-text-color;
 
 	transition: $time-animation;
 }
@@ -44,6 +45,7 @@
 	letter-spacing: 0.02em;
 
 	color: $title-text-color;
+	fill: $title-text-color;
 	text-decoration: none;
 
 	transition: $time-animation;
